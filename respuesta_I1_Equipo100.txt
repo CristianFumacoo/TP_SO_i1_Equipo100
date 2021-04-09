@@ -15,5 +15,8 @@ d-¿De qué forma se comunicaron ustedes?
 Beta: Nos comunicamos a traves de WhatsApp
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+<<<<<<< HEAD
 
 Gamma: La mejor herramienta para comunicarnos dentro de github es usando la pestaña de projects.
+=======
+>>>>>>> 7fa5a147f351dc91b1889d55105b7495ccbd57c8
