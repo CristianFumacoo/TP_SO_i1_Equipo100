@@ -1,0 +1,19 @@
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+
+Cristian: Si, veo los datos cargados.
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+
+Cristian: Si, lo ven.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+
+Beta: Los demas integrantes pueden ver los cambios realizados por Beta
+
+d-¿De qué forma se comunicaron ustedes?
+
+Beta: Nos comunicamos a traves de WhatsApp
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+Gamma: La mejor herramienta para comunicarnos dentro de github es usando la pestaña de projects.
